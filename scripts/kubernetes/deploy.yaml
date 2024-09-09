@@ -23,7 +23,7 @@ spec:
     spec:
       containers: 
       - name: video-streaming
-        image: flixtube223763978.azurecr.io/video-streaming:1
+        image: flixtube223763978000.azurecr.io/video-streaming:1
         imagePullPolicy: IfNotPresent
         env:
         - name: PORT
