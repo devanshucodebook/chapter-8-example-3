@@ -3,7 +3,7 @@ const fs = require("fs");
 
 const app = express();
 
-//
+//comment
 // Throws an error if the PORT environment variable is missing.
 //
 if (!process.env.PORT) {
